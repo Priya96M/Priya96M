@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Priya96M
 - 👀 I’m interested in Web Devloper
 - 🌱 I’m currently learning Full stack web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me krishnapriya0696@gmail.com
+- 😄 Pronouns: Beloved (Priya)
+- ⚡ Fun fact:Nick Name:Bon👀eye
 
 <!---
 Priya96M/Priya96M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
