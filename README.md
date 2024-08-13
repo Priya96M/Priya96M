@@ -7,7 +7,7 @@
 - ⚡ Fun fact:Nick Name:Bon👀eye
 - ⚡First Birth:30 May 1996
 - ✨ Placed @ Althi Solutions ✨ React Front-End Developer
-- 
+  
 
 
 
